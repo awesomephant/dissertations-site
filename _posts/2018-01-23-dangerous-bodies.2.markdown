@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Dangerous Bodies: How is censorship on Instagram contributing to the policing of women’s bodies?  "
+date:   2018-01-23 18:31:39 +0000
+categories: architecture
+author: "Margot Parker"
+graduation: 2018
+author-website: "maxkoehler.com"
+---
+
+The oppression and policing of women bodies through censorship is not a new concept, but the means by which this is taking place have changed. Since the advent of social media women have been given the ability ‘…to present a more diverse set of images on what the female form can look like and mean.’ (Valenti, 2015) selfies for example, although they may seem vacuous to some, have given women the ability to “seize the gaze” as they ‘offer a new sense of control to women as subjects rather than objects.’ (Valenti, 2015). However, this new-found control for some women this is coming at a price, images of women that may not conform to western societies young, hairless, slim, pert breasted standards are all too often being censored on social media and having their images removed by the social media platforms themselves. This has been particularly prevalent on Instagram and has created a backlash from many who have had their images removed.  
+
+Instagram is a social media app for sharing photos and videos from your smartphone over 95 million posts are shared via it each day, and it has around 500 million users worldwide (Roberts, 2016, p.17) Since its launch in 2010 many users the app has allowed many to utilise the platform as a space for art, self-expression, or as a way to connect to those with shared aesthetic or common interests (Roberts, 2016, p.17). 
+
+![mage](/assets/maggyp.jpg)
+
+Women’s issues in general are currently very much in the public consciousness, with the president of United States having been heard saying ‘Grab her by the pussy!’  and revelations about sexual harassment and abuse by men in powerful positions from Hollywood to Westminster provoking women (and some men) to take to social media to fight back with #metoo, these platforms are becoming a forum for women to come together, discuss and speak out against oppression of women and their bodies. In researching Instagram censorship, it has become apparent to me that what is taking place on Instagram is representative of what is happening in the real world. There’s a huge double standard in the way certain bodies, particularly the bodies of women, are treated and presented, so often the issues of these women are only addressed when it stands to benefit someone else. Although this only represents a small part of women’s issues as a whole, to understand this subject gives way to a greater understanding of broader issues in the world at large. 
+I will briefly examining how theories on women’s bodies have been used to oppress them in the past and presenting the cases that first brought this issue to my attention By examining the rules by which images on Instagram are govern I hope to gain a better understanding of why certain images are being censored  
+
+History and Context
+The idea that women are inferior to men and thus somehow un-trustworthy and dangerous have been historically perpetuated in order for men to maintain their control over women. Rose Weitz explains in ‘A History of Women’s Bodies’ Aristotle’s ideas about the females’ development in the womb formed the first theory that women are ‘biologically’ inferior to men, he claimed that they were simply under developed in the womb due to lack of heat and therefore just lesser versions of men (1998, p.4). Classical scholars furthered this theory by arguing this lack of heat meant women were smaller, frailer, had less developed brains ‘…and emotional and moral weakness that could endanger any men who came under their spell.’ (Weitz, 1998, p.4). 
+
+Christian views on women developed from those about Mary and Eve, in the Bible women generally only get to be seen in two ways, 
+
+Christian theologians argued that Eve had caused the fall from divine grace and the expulsion from the Garden of Eden by succumbing when the snake tempted her with forbidden fruit. This “original sin” had occurred, these theologians argued, because women’s nature made them inherently more susceptible to sexual desire and other passions of the flesh, blinding them to reason and morality and making them a constant danger to men’s souls. Mary 
+meanwhile had avoided this fate only by remaining virginal. (Weitz, 1998, p.4)
+
+In medieval times, there was a lot of religious shame associated with periods particularly from Christians, sanitary products were little more than rags (hence the phrase ‘on the rag’) and many women just bled in to their clothes. Pain relief wasn’t really permitted and menstrual cramps were seen to be a reminder of Eve’s original sin (Bushak, 2016). The idea that any woman had the potential to cause as much damage as the fall of man, formed the backdrop for the witchcraft hysteria in early modern Europe and colonial America Protestants and Catholics thought women were less intelligent and driven by sexual passions ‘…and hence more susceptible to the Devil’s blandishments.’ (Weitz, 1998, p.5). Women were painted as possible witches and harlots who could corrupt men if not suppressed and controlled. 
+
+Although we may think that society has moved on from these archaic views the oppression of women and fear and condemnation of female sexuality still forms an undercurrent in society
+
+Families tend to be more protective toward their daughters. Parents impose their own moral, religious or personal views toward sex onto their children, and this is particularly the case with girls. Feelings of guilt and shame are born in the household and at a very young age, when little girls are taught to hide or repress their physical selves. As they reach adolescence and start dating, protective or critical attitudes from parental figures tend to teach young women to suppress or resist their sexuality. Everyone from their parents to their peers may be sending them the message that being sexual is synonymous with being a slut. (Firestone 2012)
+
+Whether subconsciously or consciously many traditional family dynamics continues to raise girls and boys imposing different attitudes towards sex ‘…and sex in our society is so linked to the body.’ (Bystorm, 2015) and when you teach girls to associate guilt and shame with sex you’re inadvertently teaching them to associate these feelings with their bodies. There’s a great deal of fear that surrounds nudity particularly female nudity the idea that all nude images amount to porn particularly on the internet ‘…a nude photograph immediately becomes pornographic even if that is not the intent.’ (Soda, 2015) These ideas that are so ingrained in us give some context to why the issue of Instagram censorship has arisen. 

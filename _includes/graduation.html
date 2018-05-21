@@ -1,0 +1,1 @@
+{% assign currentYear = "now" | date: "%Y" | plus: 0 %}{% if currentYear <= page.graduation | plus: 0 %}BA Expected {{page.graduation}}{% else %}BA {{page.graduation}}{% endif %}

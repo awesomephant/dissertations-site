@@ -1,0 +1,49 @@
+* {
+    font-size: inherit;
+    font-weight: normal;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: $backgroundColour;
+    perspective: 370px;
+    font-family: $sans;
+//    font-feature-settings: "salt" 1, "salt" 2;
+    color: $textColor;
+}
+
+.btn {
+    padding: .6rem 1rem;
+    vertical-align: center;
+    border: 1px solid $black;
+    border-radius: 2px;
+    font-family: $sans;
+    text-decoration: none;
+    display: inline-block;
+    color: $black;
+
+}
+
+.about-copy {
+    font-size: 1.4rem;
+    text-align: left;
+    .layout-post & {
+        display: none;
+    }
+    
+}
+
+.subject {
+    color: inherit;
+    margin-right: .2em;
+    &:after {
+        content: ','
+    }
+    &:last-of-type:after {
+        content: '.'
+    }
+    &:last-of-type:before {
+        content: ' and '
+    }
+}

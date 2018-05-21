@@ -1,0 +1,101 @@
+.hasThumbnail h2 {
+    display: none;
+}
+.post-list {
+    padding: 1rem; //    background: darken(white, 5);
+    color: $textColor;
+    .post-thumbnail {
+        width: 80%;
+    }
+    .post-meta {
+        font-size: 1.4rem;
+        padding-top: .2rem;
+    }
+    .post-title {
+        font-size: inherit;
+        color: inherit;
+        line-height: 1.2;
+        font-size: 2rem;
+        font-weight: 400;
+        text-decoration: none;
+        text-transform: capitalize;
+        h2 {
+            width: 20em;
+            font-weight: inherit;
+        }
+    }
+    .post-excerpt {
+        font-size: 1rem;
+    }
+    .post-header {
+        grid-column-end: span 3;
+    }
+    .post {
+        list-style: none;
+        position: relative;
+        margin-bottom: 5vh;
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+.single-post {
+    margin: 1rem;
+    padding: 2rem;
+    max-width: 60rem;
+    .post-header {
+        padding-top: 10%;
+        margin-bottom: -12rem;
+        padding-left: 10%;
+    }
+    .post-title {
+        font-family: $sans;
+        font-weight: 500;
+        transform: rotateY(5deg);
+        font-size: 3.8rem;
+        line-height: 1.2;
+        margin-bottom: .5em;
+    }
+    .post-title em {
+        margin-right: .2em;
+    }
+    .post-author {
+        font-size: 1.4rem;
+    }
+    .post-body {
+        padding-left: 2%;
+        padding-right: 3rem;
+        font-size: 1.4rem;
+        line-height: 1.44; //        text-align: justify;
+        -ms-hyphens: auto;
+        p {
+            font-family: Suisse Works;
+            font-weight: 400;
+            text-indent: 2rem;
+        }
+    }
+    .post-thumbnail {
+        width: 100%;
+        position: absolute;
+        z-index: -10;
+        top: 0;
+        left: 0;
+    }
+}
+
+.post-meta-category {
+    display: block;
+    text-transform: capitalize;
+}
+
+.post-footnotes {
+    column-count: 2;
+    padding-top: 2rem;
+    font-size: .9rem;
+}
+
+.post-footnote {
+    list-style: none;
+    margin-bottom: .5rem;
+    text-indent: .5rem hanging;
+}
